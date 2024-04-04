@@ -69,7 +69,6 @@ plt.show()
 ![Screenshot 2024-04-04 134040](https://github.com/DEVADARSHAN2/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119432150/99c8e2f3-9146-4e94-b9dc-06205508a6cb)
 ### Predicted value
 ![Screenshot 2024-04-04 134050](https://github.com/DEVADARSHAN2/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119432150/a5bc2018-b314-4c01-9110-6bde36c92320)
-### Result tree
-![Screenshot 2024-04-04 134100](https://github.com/DEVADARSHAN2/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119432150/12610513-b12e-4868-bac0-045a494c0ddc)
+
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
