@@ -59,9 +59,6 @@ accuracy
 
 dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
-plt.figure(figsize=(18,6))
-plot_tree(dt,feature_names=x.columns,class_names=['salary','left'],filled=True)
-plt.show()
 ```
 ## Output:
 ![Screenshot 2024-04-04 134517](https://github.com/DEVADARSHAN2/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119432150/1f4d10f2-eaec-4455-a3e1-9cf2a9de3ab2)
